@@ -18,7 +18,7 @@ A simple and elegant web application that converts written text into spoken audi
 
 - **HTML** – for structuring the interface  
 - **CSS** – for styling and animations  
-- **JavaScript (Vanilla)** – to implement the speech synthesis logic  
+- **JavaScript** – to implement the speech synthesis logic  
 - **Web Speech API** – to handle voice selection and text-to-speech conversion
 
 ---
@@ -41,7 +41,7 @@ git clone https://github.com/Uvajanani/Text-to-Speech-Converter.git
 
 2. Navigate into the project directory:
 
-cd text-to-speech-converter
+cd Text-to-Speech-Converter
 
 3. Open `index.html` in your browser to use the app.
 
